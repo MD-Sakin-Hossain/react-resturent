@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MD-Sakin-Hossain/react-resturent/static/css/main.96357643.css",
+    "main.js": "/MD-Sakin-Hossain/react-resturent/static/js/main.4ba367a4.js",
+    "index.html": "/MD-Sakin-Hossain/react-resturent/index.html",
+    "main.96357643.css.map": "/MD-Sakin-Hossain/react-resturent/static/css/main.96357643.css.map",
+    "main.4ba367a4.js.map": "/MD-Sakin-Hossain/react-resturent/static/js/main.4ba367a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96357643.css",
+    "static/js/main.4ba367a4.js"
+  ]
+}
